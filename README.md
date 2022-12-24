@@ -27,9 +27,8 @@
 
 <h3><b>📚 Learning Log</b></h3>
 <br>
-<a href="https://abit.ly/eg0t9t" target="_blank">
-<img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=NOTION&logoColor=white"></a>
-<a href="https://velog.io/@xangj0ng" target="_blank" ><img src="https://img.shields.io/badge/VELOG-20C997?style=for-the-badge&logo=VELOG&logoColor=white"></a>
+<a href="https://abit.ly/eg0t9t" target="blank"><img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=NOTION&logoColor=white"></a>
+<a href="https://velog.io/@xangj0ng" target="blank" ><img src="https://img.shields.io/badge/VELOG-20C997?style=for-the-badge&logo=VELOG&logoColor=white"></a>
 
 </div>
 <!--
