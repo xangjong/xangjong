@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=GITHUB&logoColor=white">
 <br><br>
 
-<h3><b>📚 Learning Log</b></h3>
+<h3><b>🔍 About ME</b></h3>
 <br>
 <a href="https://abit.ly/eg0t9t" target="blank"><img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=NOTION&logoColor=white"></a>
 <a href="https://velog.io/@xangj0ng" target="blank" ><img src="https://img.shields.io/badge/VELOG-20C997?style=for-the-badge&logo=VELOG&logoColor=white"></a>
