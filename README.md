@@ -5,11 +5,6 @@
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xangjong)](https://github.com/xangjong/github-readme-stats)
-
-<br>
-<br>
-
 <h3><b>🔥 TECH STACK</b></h3>
 <br>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white">
