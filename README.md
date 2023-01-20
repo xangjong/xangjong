@@ -1,6 +1,5 @@
 # Sang Jong Choi
 > ## No error, No gain
-<br>
 
 <div align="left">
 
