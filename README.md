@@ -1,10 +1,9 @@
-
+# Sang Jong Choi
 > ## No error, No gain
 <br>
 
 <div align="left">
 
-# Sang Jong Choi
 <h3><b>🔥 TECH STACK</b></h3>
 <br>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white">
@@ -12,7 +11,7 @@
 <img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=SPRING&logoColor=white">
 <img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=for-the-badge&logo=SPRINGBOOT&logoColor=white">
 
-<br><br>
+<br>
 
 <h3><b>🔍 About ME</b></h3>
 <br>
